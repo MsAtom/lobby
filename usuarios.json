@@ -1,3 +1,30 @@
 {
-    "kaka": "kaka"
+    "kaka": {
+        "senha": "kaka",
+        "curso": null
+    },
+    "dgzin": {
+        "senha": "dg",
+        "curso": null
+    },
+    "cr7": {
+        "senha": "cr7",
+        "curso": null
+    },
+    "gg": {
+        "senha": "gg",
+        "curso": null
+    },
+    "kk": {
+        "senha": "kk",
+        "curso": null
+    },
+    "jj": {
+        "senha": "jj",
+        "curso": "Introdução à Audiodescrição"
+    },
+    "aspas": {
+        "senha": "0000",
+        "curso": "Introdução à Língua Brasileira de Sinais (Libras)"
+    }
 }
